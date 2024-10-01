@@ -3,7 +3,7 @@ void main(){
 int mark = 70;
 int i = 3;
 
-if (mark >= 80){
+if (mark >= 80 && mark <=100){
 
 print("A");
 
@@ -56,12 +56,8 @@ switch (result){
   default:
     print("invalid operator");
 
- 
 
-
-
+    
 }
-
-
 
 }
